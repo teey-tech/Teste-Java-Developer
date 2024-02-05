@@ -1,5 +1,6 @@
 Sitema de transferencia Bancaria
 
+no momento que um usuario for cadastrado automaticamente é adicionado 1000 reais na carteira
 para acessar o banco em memoria h2 utilize este link: 
 
 http://localhost:8080/h2-console
