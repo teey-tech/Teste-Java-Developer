@@ -1,6 +1,6 @@
 Sitema de transferencia Bancaria
 
-utilizade para acessar o banco em memoria h2 utilize este link: 
+para acessar o banco em memoria h2 utilize este link: 
 
 http://localhost:8080/h2-console
 
