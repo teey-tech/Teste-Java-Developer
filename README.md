@@ -12,8 +12,13 @@ Execute no Postman para rodar metodo POST
 http://localhost:8080/api/v1/usuario
 utilize um email verdadeiro para receber o email quando efetuar um saque ou deposito
 caso queira mudar o cpf e o cnpj que ja deixei podera encontrar mais aqui
+
 cpf: https://www.4devs.com.br/gerador_de_cpf
+
+
 cnpj: https://www.4devs.com.br/gerador_de_cnpj
+
+
 ```
 
     {
