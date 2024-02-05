@@ -5,6 +5,9 @@ utilizade para acessar o banco em memoria h2 utilize este link:
 http://localhost:8080/h2-console
 
 username: sa
+
+
+
 password: 
 
 Cadastro de usuario tipo cliente
